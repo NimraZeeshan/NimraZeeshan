@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm  Nimra Zeeshan</h1>
-<h3 align="center">I'm a Wife, Engineer, Developer and Researcher😜</h3>
+<h3 align="center">I'm a Wife, Engineer, Developer and Naïve Researcher😜</h3>
 
 - 🔭 I’m currently working on React and Python, Firebase and Flutter.
 - 🌱 I’m currently learning everything.🤣
