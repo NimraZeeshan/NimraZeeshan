@@ -15,19 +15,7 @@
 [<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />]
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />]
 [<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />]
-[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt=“Github” width="26px" src="https://github.com/NimraZeeshan/NimraZeeshan/blob/main/1200px-Microsoft_Project_(2019%E2%80%93present).svg.png?raw=true" />]
-
-[<img align="left" alt=“Github” width="26px" src[="https://github.com/NimraZeeshan/NimraZeeshan/blob/main/Adobe_XD_CC_icon.svg.png" />]
-
-[<img align="left" alt=“Github” width="26px" src="https://github.com/NimraZeeshan/NimraZeeshan/blob/main/1200px-Microsoft_Project_(2019%E2%80%93present).svg.png?raw=true" />]
-
-[<img align="left" alt=“Github” width="26px" src="https://github.com/NimraZeeshan/NimraZeeshan/blob/main/MySQL-Logo.wine.png" />]
-
-[<img align="left" alt=“Github” width="26px" src="https://github.com/NimraZeeshan/NimraZeeshan/blob/main/Python-logo-notext.svg.png" />]
-
-[<img align="left" alt=“Github” width="26px" src=" https://github.com/NimraZeeshan/NimraZeeshan/blob/main/React-icon.svg.png" />]
-
+[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
 <br />
