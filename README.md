@@ -16,11 +16,4 @@
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />]
 [<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />]
 
-<br />
 
----
-
-[https://cdn-icons-png.flaticon.com/512/174/174857.png]: https://linkedin.com/in/nimra-ghazal
-[github]: https://github.com/NimraZeeshan
-[email]: mailto:nimra.ghazal@carotechnology.com
- 
