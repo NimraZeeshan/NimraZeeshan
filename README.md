@@ -20,7 +20,7 @@
 
 ---
 
-[[linkedin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw2wXg8K2WbYadUrLI6B1n0U&ust=1668148092518000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJj3mYX-ovsCFQAAAAAdAAAAABAE)]: https://linkedin.com/in/nimra-ghazal
+[https://cdn-icons-png.flaticon.com/512/174/174857.png]: https://linkedin.com/in/nimra-ghazal
 [github]: https://github.com/NimraZeeshan
 [email]: mailto:nimra.ghazal@carotechnology.com
  
