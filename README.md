@@ -22,7 +22,8 @@
 <br />
 
 ---
-
+<!-- 
 [linkedin]: https://linkedin.com/in/nimra-ghazal
 [github]: https://github.com/NimraZeeshan
 [email]: mailto:nimra.ghazal@carotechnology.com
+ -->
