@@ -34,9 +34,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nimrazeeshan&show_icons=true&locale=en" alt="nimrazeeshan" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimrazeeshan&show_icons=true&locale=en&layout=compact" alt="nimrazeeshan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimrazeeshan&show_icons=true&locale=en&layout=compact" alt="nimrazeeshan" /></p> 
 
-
+<p>
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
@@ -49,6 +49,6 @@ Other        1 hr 2 mins     █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+</p>
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/nimraghazaU"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/nimraghazaU" /></a></p> -->
