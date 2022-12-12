@@ -35,12 +35,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nimrazeeshan&show_icons=true&locale=en" alt="nimrazeeshan" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimrazeeshan&show_icons=true&locale=en&layout=compact" alt="nimrazeeshan" /></p> 
-<br><br>
+<br>
+
 <p>
-📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
+📊 **this week i spent my time on:**
 
 Dart   14 hrs 57 mins  █████████████████▒░░░░░░░   69.35 %
 C++         2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
