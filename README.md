@@ -20,11 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/nimrazeeshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/nimrazeeshan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nimra-ghazal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nimra-ghazal/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8461500/nimra-ghazal?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8461500/nimra-ghazal?tab=profile" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/nimrazeeshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/nimrazeeshan" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/nimraghazaaf54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/nimraghazaaf54" height="30" width="40" /></a>
+<a href="https://dev.to/nimrazeeshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/nimrazeeshan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nimra-ghazal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nimra-ghazal/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8461500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8461500/nimra-ghazal?tab=profile" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/nimrazeeshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/nimrazeeshan" height="30" width="40" /></a>
+<a href="https://www.behance.net/nimraghazaaf54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/nimraghazaaf54" height="30" width="40" /></a>
 <a href="https://medium.com/@nimraghazal19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nimraghazal19" height="30" width="40" /></a>
 </p>
 
