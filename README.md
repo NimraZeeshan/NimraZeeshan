@@ -36,11 +36,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimrazeeshan&show_icons=true&locale=en&layout=compact" alt="nimrazeeshan" /></p> 
 <br>
-
+<br>
+<h3 align="left"> 📊 This week I spent my time on</h3>
 <p>
-
-📊 **this week i spent my time on:**
-
 Dart   14 hrs 57 mins  █████████████████▒░░░░░░░   69.35 %
 C++         2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
 Python          1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
