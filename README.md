@@ -38,12 +38,17 @@
 
 
 📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
 
 Dart   14 hrs 57 mins  █████████████████▒░░░░░░░   69.35 %
 C++         2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
 Python          1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
 Other        1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+```
 
+<!--END_SECTION:waka-->
 
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/nimraghazaU"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/nimraghazaU" /></a></p> -->
