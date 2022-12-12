@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **everything 🤣.**
 
-- 💬 Ask me about **IoT, Flutter, Python, Firebase !**
+- 💬 Ask me about **IoT/IIoT/AIoT, Flutter, Python/C++, Arduino/Raspberrypi/ESP32, Machine Learning!**
 
 - 📫 How to reach me **nimraghazal19@gmail.com**
 
