@@ -35,8 +35,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nimrazeeshan&show_icons=true&locale=en" alt="nimrazeeshan" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimrazeeshan&show_icons=true&locale=en&layout=compact" alt="nimrazeeshan" /></p> 
-<br>
-<br>
+
+<!-- </br>
+
 <h3 align="left"> 📊 This week I spent my time on</h3>
 <p>
 Dart   14 hrs 57 mins  █████████████████▒░░░░░░░   69.35 %
@@ -44,6 +45,8 @@ C++         2 hrs 41 mins   ███░░░░░░░░░░░░░░�
 Python          1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
 Other        1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 
-</p>
+</p> -->
+
+
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/nimraghazaU"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/nimraghazaU" /></a></p> -->
